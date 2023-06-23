@@ -25,13 +25,13 @@ body{
 .start p{
     position: absolute;
     font-size: 35px;
-    top: 330px;
-    left: 520px;
+    top: 47%;
+    left: 38%;
 }
 .name{
     position: absolute;
-    top: 270px;
-    left: 350px;
+    top: 39%;
+    left: 27%;
 }
 
 .start div{
